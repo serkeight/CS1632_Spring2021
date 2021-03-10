@@ -38,7 +38,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: Software QA and Nondeterminism (cont'd) / Discuss TopHat questions
 
-* Class 2: Software QA and Nondeterminism Hands-on Exercises
+* Class 2: In-class Supplementary Exercise 1: Testing Nondeterminic Software
 
 * Listen to lectures 
   * Automated and Manual Testing (READING: AFIST, Chapter 12)
@@ -58,9 +58,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 6 (Week of 22 FEB)
 
-* Class 1: In-class Supplementary Exercise 1: Behavior Driven Development 
+* Class 1: In-class Supplementary Exercise 2: Behavior Driven Development 
 
-* Class 2: Discuss Supplementary Exercise 1 / TopHat questions
+* Class 2: Discuss Supplementary Exercise 2 / TopHat questions
 
 * Listen to lectures 
   * Writing Testable Code (READING: AFIST, Chapter 16)
@@ -71,8 +71,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Study for Midterm 1 (NO CLASS)
 
-* Midterm 1 on GradeScope (TBD)
-
+* Midterm 1 on GradeScope: Wednesday (Mar. 3) 11:00 AM - Friday (Mar. 5) 11:00 AM
+  * Check out the **[study guide](/study_guides/midterm_1_study_guide.md)**!
+  * Will be posted as link named "Midterm 1" at Wednesday 11:00 AM.
+  * You will choose a 3 hour span to complete exam within the above 2-day period.
+  * Your 3 hours begin the moment you click on link and agree to the terms on the next screen.
+  * Open book but individual work.
+  
 * Listen to lectures 
   * Automated System Testing
 
@@ -102,7 +107,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 10 (Week of 22 MAR)
 
-* Class 1: In-class Supplementary Exercise 2: Property-based Testing 
+* Class 1: In-class Supplementary Exercise 3: Property-based Testing 
 
 * Class 2: Student Self-care Day (NO CLASSES) 
 
